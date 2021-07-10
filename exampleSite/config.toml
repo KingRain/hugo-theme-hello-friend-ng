@@ -1,7 +1,7 @@
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 archetypeDir = "archetypes"
-baseURL = "https://rainboi.netlify.app"
+baseURL = "https://rainboi.netlify.com"
 buildDrafts = false
 buildExpired = false
 buildFuture = false
