@@ -84,11 +84,11 @@ url = "samjoe55555@gmail.com"
 name = "github"
 url = "https://github.com/KingRain"
 [[params.social]]
-name = "Discord"
+name = "discord"
 url = "https://discord.com"
 [[params.social]]
-name = "stackoverflow"
-url = "https://www.stackoverflow.com/"
+name = "instagram"
+url = "https://instagram.com/rainboi.png"
 [permalinks]
 posts = "/posts/:year/:month/:title/"
 [taxonomies]
