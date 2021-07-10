@@ -84,8 +84,8 @@ url = "samjoe55555@gmail.com"
 name = "github"
 url = "https://github.com/KingRain"
 [[params.social]]
-name = "linkedin"
-url = "https://www.linkedin.com/"
+name = "Discord"
+url = "https://discord.com"
 [[params.social]]
 name = "stackoverflow"
 url = "https://www.stackoverflow.com/"
