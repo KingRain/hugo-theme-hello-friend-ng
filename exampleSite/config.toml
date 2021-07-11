@@ -75,7 +75,7 @@ rss = true
 topText = []
 trademark = true
 [params.logo]
-logoHomeLink = "/"
+logoHomeLink = "https://cdn.discordapp.com/emojis/735361032784052294.png?v=1"
 logoMark = ">"
 logoText = "$ cd /home/"
 [[params.social]]
