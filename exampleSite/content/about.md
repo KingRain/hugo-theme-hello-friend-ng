@@ -15,4 +15,4 @@ If you have an Idea for a project, or need any help with one feel free to contac
 
 Check out my work and feel free to contribute on [GitHub](https://github.com/kingrain).
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+###Contact me on Discord: RainBoi#1000
