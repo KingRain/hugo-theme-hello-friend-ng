@@ -3,17 +3,14 @@ aliases = ["about-us", "contact"]
 date = 2014-04-09T00:00:00Z
 title = "About"
 [author]
-name = "Hugo Authors"
+name = "RainBoi"
 
 +++
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+Hey there!👋
+I'm an Art freelancer, Graphics Designer, Discord Bot Devoloper and also Game Art Devoloper.
+I do many types of Art and also 3D modeling. I enjoy doing some small
+Projects when I am free. I have a good knowledge in Discord.js and Discord.py
 
-It makes use of a variety of open source projects including:
+If you have an Idea for a project, or need any help with one feel free to contact me :D
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Check out my work and feel free to contribute on [GitHub](https://github.com/kingrain).
