@@ -30,11 +30,11 @@ name = "KingRain"
 hrefTargetBlank = true
 [languages.en]
 copyright = "<a href=\"https://creativecommons.org/licenses/by-nc/4.0/\" target=\"_blank\" rel=\"noopener\">CC BY-NC 4.0</a>"
-subtitle = "Hello Friend NG Theme"
+subtitle = "Home"
 weight = 1
 [languages.fr]
 copyright = "<a href=\"https://creativecommons.org/licenses/by-nc/4.0/\" target=\"_blank\" rel=\"noopener\">CC BY-NC 4.0</a>"
-subtitle = "Hello Friend NG Theme"
+subtitle = "Home"
 weight = 2
 [[menu.main]]
 identifier = "projects"
