@@ -1,12 +1,12 @@
 ---
 author:
   name: Michael Henderson
-date: 2014-09-28
-linktitle: Creating a New Theme
+date: 2021-07-10T18:30:00+00:00
+linktitle: First Post
 type:
 - post
 - posts
-title: Creating a New Theme
+title: First Post
 weight: "10"
 series:
 - Hugo 101
