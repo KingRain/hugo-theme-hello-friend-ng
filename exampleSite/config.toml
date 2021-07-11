@@ -22,7 +22,7 @@ layoutDir = "layouts"
 paginate = 10
 publishDir = "public"
 rssLimit = 10
-theme = "Home"
+theme = ""
 title = "Hi, I'm RainBoi"
 [author]
 name = "KingRain"
