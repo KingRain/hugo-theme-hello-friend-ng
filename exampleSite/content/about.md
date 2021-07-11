@@ -15,4 +15,4 @@ If you have an Idea for a project, or need any help with one feel free to contac
 
 Check out my work and feel free to contribute on [GitHub](https://github.com/kingrain).
 
-###Contact me on Discord: RainBoi#1000
+*Contact me on Discord: RainBoi#1000*
