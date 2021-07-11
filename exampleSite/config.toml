@@ -23,7 +23,7 @@ paginate = 10
 publishDir = "public"
 rssLimit = 10
 theme = ""
-title = "RainBoi | Home"
+title = "Hi, I'm RainBoi"
 [author]
 name = "KingRain"
 [blackfriday]
