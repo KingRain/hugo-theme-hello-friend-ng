@@ -433,3 +433,11 @@ hr {
   align-items: center;
   padding: 20px 0;
 }
+
+.btn input {
+  margin-right: 15px;
+}
+
+.btn input:last {
+  margin-right: 0px;
+}
