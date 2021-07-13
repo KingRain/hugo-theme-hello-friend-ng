@@ -83,7 +83,7 @@ name = "twitter"
 url = "https://twitter.com/RainBoi15"
 [[params.social]]
 name = "email"
-url = "samjoe55555@gmail.com"
+url = ""
 [[params.social]]
 name = "github"
 url = "https://github.com/KingRain"
